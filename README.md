@@ -1,2 +1,5 @@
-# This is text Edit app 
-<p>Hello this is my first app</p>
+<<<<<<< HEAD
+Your local changes here...
+=======
+Remote changes here...
+>>>>>>> origin/gh-pages
